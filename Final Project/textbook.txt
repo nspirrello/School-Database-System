@@ -1,0 +1,4 @@
+Introduction to CS,Peter Smith,Publishing Co,87.50,GHT-897,2007
+Advandced CS,Peter Smith,Publishing Co,93.99,GHT-898,2009
+Basic Calculus,James Lemon,Mathematic Pub,103.75,YTU-456,2004
+Calculus,James Lemon,Mathematic Pub,124.00,YTU-457,2004

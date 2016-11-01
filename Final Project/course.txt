@@ -1,0 +1,6 @@
+Introduction to Programming,CST112,6789,GHT-897,4
+Intermediate programming with Java,CST141,6790,GHT-897,4
+Advanced Programming with Java,CST242,6876,GHT-898,4
+Data Structures,CST246,6567,GHT-898,4
+Calculus I,MAT141,6756,YTU-456,4
+Calculus II,MAT142,6746,YTU-457,4
